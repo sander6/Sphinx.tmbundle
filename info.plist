@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Sphinx</string>
+	<key>ordering</key>
+	<array>
+		<string>0DB6EF41-B776-44CC-B9F6-185A49EA672A</string>
+	</array>
+	<key>uuid</key>
+	<string>9B754B8C-9CE5-40CF-97A5-B6E09D36735B</string>
+</dict>
+</plist>
